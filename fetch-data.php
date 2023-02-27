@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "username";
-$password = "password";
+$username = "roin";
+$password = "right3y3";
 $dbname = "dog_db";
 
 // Create connection
